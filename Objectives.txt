@@ -1,0 +1,6 @@
+1.Need to create
+	a.Tree
+	b.Animals
+	c.Land or Grass
+2.Need to create multiple windows using(setwindow and getwindow)
+3.Have to add Lighting and Shading(Texturing).
